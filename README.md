@@ -1,3 +1,7 @@
+> Built by [Komal Agarwal](https://github.com/komalmagarwal) — 
+> founder of Sola, exploring AI applications across healthcare and 
+> financial services.
+
 # AI for Financial Disclosures
 
 This project demonstrates a Natural Language Processing (NLP) pipeline to extract, classify, and summarize financial disclosure documents.
