@@ -1,4 +1,4 @@
-> Built by [Komal Agarwal](https://github.com/komalmagarwal) — 
+> Built by [Komal Agarwal](https://github.com/komalmagarwal) - 
 > founder of Sola, exploring AI applications across healthcare and 
 > financial services.
 
