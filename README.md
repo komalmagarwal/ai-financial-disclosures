@@ -22,3 +22,10 @@ This project automates the process, saving time and improving accuracy.
 - Summarization of lengthy documents into concise briefs
 
 ## Sample Output
+```json
+{
+  "document_type": "Annual Report",
+  "entities": ["Goldman Sachs", "Q4 2024", "Revenue: $12.7B"],
+  "summary": "Goldman Sachs Q4 2024 annual report highlights..."
+}
+```
